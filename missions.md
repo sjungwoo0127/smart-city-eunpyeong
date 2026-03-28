@@ -84,5 +84,6 @@
 
 ## 미션 수행 영상
 
-{% embed url="https://youtu.be/42QPNAxgweY" %}
 
+
+{% embed url="https://youtu.be/jx1hCDq_Bz4" %}
