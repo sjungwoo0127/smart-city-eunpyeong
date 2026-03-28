@@ -6,7 +6,7 @@
 
 모바일 로봇에 장착된 AI 카메라를 활용하여 신호등을 인식하고, 사용자가 작성한 코드에 따라 자율적으로 움직이며 미션을 완수합니다. 미션의 성공 여부는 미션 렘프의 색상을 통해 즉각적으로 확인할 수 있어, 코딩과 로봇 제어의 결과를 바로 학습할 수 있도록 설계되었습니다.
 
-<figure><img src=".gitbook/assets/IMG_7964.jpg" alt=""><figcaption><p><strong>SMART CITY(스마트 시티)</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/20260201_182248.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 스마트 시티 스펙
 
@@ -67,18 +67,14 @@
 스마트 시티는 전원을 연결하면, 스마트 시티의 리니어 벨트가 자동으로 초기 위치로 이동합니다. 이 과정은 약 1분정도 소요됩니다.
 
 {% embed url="https://www.youtube.com/watch?v=qVChE-Auwyw" %}
-{% endembed %}
 
 > (키오스크) 전원 연결시 앱 자동 실행
 
 키오스크의 전원을 연결하면, 자동으로 키오스크에서 앱이 자동으로 실행 됩니다.이 과정은 약 2분정도 소요됩니다.
 
 {% embed url="https://www.youtube.com/watch?v=oRhPqHK9rAo" %}
-{% endembed %}
 
 > 맵 색상 안내
-
-
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
