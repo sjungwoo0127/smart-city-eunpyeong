@@ -86,4 +86,4 @@
 
 
 
-{% embed url="https://youtu.be/jx1hCDq_Bz4" %}
+{% embed url="https://www.youtube.com/watch?v=jx1hCDq_Bz4" %}
