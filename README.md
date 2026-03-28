@@ -44,7 +44,6 @@
 2. 전원 연결 시 미션 렘프 및 신호등이 잠시 깜빡입니다. 깜빡임이 끝나면 정상 작동 상태입니다.
 
 {% embed url="https://www.youtube.com/watch?v=0JGxthl75mU" %}
-{% endembed %}
 
 {% hint style="danger" %}
 **주의사항**
@@ -146,7 +145,7 @@
 모바일 로봇을 도로 위에 올려놓을 때, 반드시 <mark style="background-color:purple;">**카메라가 왼쪽을 향하도록**</mark> 똑바르게 놓아야 합니다.
 
 {% hint style="warning" %}
-타일 뒷면에 NFC와 자석이 있어서 정확하게 인식 시켜야 모바일 로봇이 움직입니다.
+타일 뒷면에 NFC와 자석이 있어서 왼쪽을 바라보고 정 중앙에 정확하게 인식 시켜야 모바일 로봇이 움직입니다.
 {% endhint %}
 
 > 올바른 방향
