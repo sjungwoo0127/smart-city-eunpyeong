@@ -67,22 +67,20 @@
 스마트 시티는 전원을 연결하면, 스마트 시티의 리니어 벨트가 자동으로 초기 위치로 이동합니다. 이 과정은 약 1분정도 소요됩니다.
 
 {% embed url="https://youtu.be/qVChE-Auwyw" %}
-{% endembed %}
 
 > (키오스크) 전원 연결시 앱 자동 실행
 
 키오스크의 전원을 연결하면, 자동으로 키오스크에서 앱이 자동으로 실행 됩니다.이 과정은 약 2분정도 소요됩니다.
 
 {% embed url="https://youtu.be/oRhPqHK9rAo" %}
-{% endembed %}
 
 > 맵 색상 안내
 
-<figure><img src=".gitbook/assets/IMG_7937.jpg" alt=""><figcaption><p>스마트 시티 맵 구성</p></figcaption></figure>
 
-* <mark style="background-color:purple;">**검은색**</mark> — 도로 (모바일 로봇 주행 구간)
-* <mark style="background-color:purple;">**회색**</mark> — 모듈이 올라가는 자리
-* <mark style="background-color:purple;">**녹색**</mark> — 차도 아님 (주행 불가 구간)
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* 가운데 검은색 및 외각에 노란색으로 구분지어진 타일은 도로로써 모바일 로봇의 주행 구간이고 그 외의 타일에서는 모듈들이 올라가 있는 타일 입니다.
 
 ### 소프트웨어 환경
 
