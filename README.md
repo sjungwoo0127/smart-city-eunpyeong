@@ -148,6 +148,10 @@
 
 모바일 로봇을 도로 위에 올려놓을 때, 반드시 <mark style="background-color:purple;">**카메라가 왼쪽을 향하도록**</mark> 똑바르게 놓아야 합니다.
 
+{% hint style="warning" %}
+타일 뒷면에 NFC와 자석이 있어서 정확하게 인식 시켜야 모바일 로봇이 움직입니다.
+{% endhint %}
+
 > 올바른 방향
 
 <figure><img src=".gitbook/assets/IMG_7958.jpg" alt=""><figcaption><p>올바른 방향 — 카메라가 왼쪽을 향하도록 똑바르게 놓아주세요</p></figcaption></figure>
