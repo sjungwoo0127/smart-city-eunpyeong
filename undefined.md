@@ -6,24 +6,22 @@
 
 ***
 
-## STEP 1 — AI 카메라 코딩
+## STEP 1 — 키오스크를 통한 블럭 코딩
 
-휴닛랩을 통해 미션에 따라 AI 카메라에 코딩합니다.
-
-코딩 방법은 Python 코딩 가이드에 따라서 합니다.
+키오스크 화면을 통해 각 미션에 맞게 블럭코딩을 진행합니다
 
 {% hint style="info" %}
-휴닛렙 설치 가이드: [https://huenit.gitbook.io/huenit-1/huenit/huenit-lab/0./huenit-lab](https://huenit.gitbook.io/huenit-1/huenit/huenit-lab/0./huenit-lab)
-{% endhint %}
+블럭코딩 블럭들에 대한 설명은 다음 페이지에 있습니다.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+[missions.md](missions.md "mention")
+{% endhint %}
 
 ## STEP 2 — AI 카메라에 업로드
 
 코딩이 완료된 후 HUENIT\_LAB에서 AI 카메라에 업로드 합니다.
 
 {% hint style="warning" %}
-&#x20;카메라의 펌웨어 버전을 업데이트 하지 않도록 주의해야 합니. 휴닛 렙을 통하여 카메라의 펌웨어를 업데이트 하면 스마트 시티의 코드가 동작하지 않을 수 있습니다.
+카메라의 펌웨어 버전을 업데이트 하지 않도록 주의해야 합니. 휴닛 렙을 통하여 카메라의 펌웨어를 업데이트 하면 스마트 시티의 코드가 동작하지 않을 수 있습니다.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="350"><figcaption></figcaption></figure>
@@ -40,17 +38,11 @@
 카메라를 끼울 때 반드시 **꽉 끼워주세요.** 대부분의 문제가 카메라가 제대로 장착되지 않아서 발생합니다. 사용 후에는 카메라를 빼서 보관해 주세요.
 {% endhint %}
 
-
-
 ## STEP 4 — 미션 실행
 
 스테이션의 버튼을 눌러 시작하면 모바일 로봇이 스마트 시티 도로 위를 주행하며 미션을 수행합니다.
 
-
-
 <figure><img src=".gitbook/assets/IMG_7948.gif" alt=""><figcaption></figcaption></figure>
-
-
 
 ## STEP 5 — 결과 확인
 
@@ -61,8 +53,6 @@
 * <mark style="color:red;">**빨강**</mark> — 미션 실패
 
 <div><figure><img src=".gitbook/assets/IMG_7962.jpg" alt=""><figcaption><p>미션 성공 시 초록색으로 점등</p></figcaption></figure> <figure><img src=".gitbook/assets/IMG_7960.jpg" alt=""><figcaption><p>미션 실행 중 주황색으로 깜빡</p></figcaption></figure> <figure><img src=".gitbook/assets/IMG_7961.jpg" alt=""><figcaption><p>미션 실패 시 빨간색으로 점등</p></figcaption></figure></div>
-
-
 
 ## 미션 성공 영상
 
