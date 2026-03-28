@@ -43,8 +43,7 @@
 1. 전원이 꺼진 상태에서 리니어 벨트를 신호등 쪽으로 밀어놓습니다.
 2. 전원 연결 시 미션 렘프 및 신호등이 잠시 깜빡입니다. 깜빡임이 끝나면 정상 작동 상태입니다.
 
-{% embed url="https://youtu.be/0JGxthl75mU" %}
-리니어 벨트 초기 위치 세팅 방법
+{% embed url="https://www.youtube.com/watch?v=0JGxthl75mU" %}
 {% endembed %}
 
 {% hint style="danger" %}
