@@ -28,7 +28,7 @@
 
 > 크기
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **소프트웨어 업데이트 안내**
@@ -74,7 +74,7 @@
 
 > 맵 색상 안내
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 가운데 검은색 및 외각에 노란색으로 구분지어진 타일은 도로로써 모바일 로봇의 주행 구간이고 그 외의 타일에서는 모듈들이 올라가 있는 타일 입니다.
 
@@ -168,7 +168,7 @@
 
 똑같은 미션을 한 번 더 실행하고 싶을 경우, AI 카메라의 **전원 버튼을 눌러 초기화**해 주어야 합니다. 초기화 없이 재실행하면 정상적으로 동작하지 않을 수 있습니다.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 충전
 

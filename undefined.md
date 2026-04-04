@@ -13,7 +13,7 @@
 {% hint style="danger" %}
 아래 그림처럼 카메라를 연결하지 않으면 블럭 코딩을 시작할 수 없습니다.
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 {% endhint %}
 
 ## STEP 2 — 키오스크를 통한 블럭코딩 진행
@@ -28,7 +28,7 @@
 
 * 각 미션별로 진행한 코드를 AI 카메라에 업로드 합니다.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 업로드 도중 카메라와의 연결을 해제하지 않도록 유의 해야합니다.
