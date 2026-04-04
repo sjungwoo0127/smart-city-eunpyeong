@@ -1,4 +1,4 @@
-# 미션 안내 & 블럭코딩 사용법
+# 미션 안내 & 블럭 설명
 
 스마트 시티에는 총 **4개의 미션**이 있습니다. 미션은 순서대로 진행되며, 각 미션을 성공적으로 완료해야 다음 미션으로 넘어갑니다.
 
@@ -84,4 +84,4 @@
 
 ## 미션 수행 영상
 
-{% embed url="https://www.youtube.com/watch?v=jx1hCDq_Bz4" %}
+{% embed url="https://youtu.be/0ZKrWgaGuD4" %}

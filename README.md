@@ -74,7 +74,7 @@
 
 > 맵 색상 안내
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * 가운데 검은색 및 외각에 노란색으로 구분지어진 타일은 도로로써 모바일 로봇의 주행 구간이고 그 외의 타일에서는 모듈들이 올라가 있는 타일 입니다.
 
@@ -103,7 +103,7 @@
 * **시작** — 스마트 시티의 버튼을 **한 번** 누릅니다.
 * **강제 종료** — 스마트 시티의 버튼을 **5초 이상** 길게 누릅니다.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/scene_transition.png" alt=""><figcaption></figcaption></figure>
 
