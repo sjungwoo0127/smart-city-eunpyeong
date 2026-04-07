@@ -50,7 +50,7 @@
 
 충전소에서 왼쪽 방향을 보지 않으면 충전 실패가 됩니다.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/mission2_desc (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -88,7 +88,7 @@
 
 미션 3은 로봇의 도움으로 끊어진 길을 연결하여 다음 지점까지 이동해야 합니다.
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/mission3_desc (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/mission4_desc (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
